@@ -1,0 +1,8 @@
+.DS_Store
+
+# Visual Studio Code
+.vscode
+
+# Build results
+[Bb]in/
+[Oo]bj/
